@@ -1,7 +1,7 @@
 {
   "name": "d3-cloud",
   "description": "Create word clouds with D3",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "main": [
     "d3.layout.cloud.js"
   ],
