@@ -24,7 +24,7 @@
     "**/.*",
     "examples",
     "lib",
-    "*.json",
+    "package.json",
     "index.js",
     "LICENSE",
     "README.md"
